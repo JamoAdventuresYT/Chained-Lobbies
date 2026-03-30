@@ -44,4 +44,4 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-client.login('YOUR_DISCORD_BOT_TOKEN');
+client.login('MTQ4Nzk3ODAyMzk0MzY2NzgyMg.Gt88y0.c1RcVyjf7GM3Srb2eIQ0yTcPE1n3rrGANaLBFA');
